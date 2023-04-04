@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [https://stinkycodemachine.github.io/ping-coming-soon-page-master/](https://stinkycodemachine.github.io/ping-coming-soon-page-master/)
+- Live Site URL: [https://stinkycodemachine.github.io/order-summary-component-main/](https://stinkycodemachine.github.io/order-summary-component-main/)
 
 
 ## My process
